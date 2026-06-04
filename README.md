@@ -6,7 +6,7 @@ Current focus:
 
 - Hyperliquid tooling through [HypeTerminal](https://github.com/vipineth/hypeterminal), an open-source trading terminal for perps, spot, builder-deployed perp DEXes, real-time market data, order flow, and agent-wallet flows.
 - DefiLlama adapter work, including [Hyperliquid HLP allocation #7425](https://github.com/DefiLlama/dimension-adapters/pull/7425), [Ventuals vHYPE TVL #18978](https://github.com/DefiLlama/DefiLlama-Adapters/pull/18978), and follow-up adapter investigations.
-- Perps and DeFi interface work from about 2.5 years contributing around GMX.
+- Perps and DeFi interface work through 407 public GMX PRs visible in GitHub search, including 328 merged PRs.
 
 I care about software that users can inspect: open-source clients, transparent data methodology, reproducible protocol accounting, and tools that make DeFi easier to verify.
 
